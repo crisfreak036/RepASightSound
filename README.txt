@@ -1,0 +1,1 @@
+This folder contains checkpoints of the visual and audio counting models, the temporal stride decision module ("sr_checkpoint.pt"), and the reliability estimation module ("conf_checkpoint.pt") trained on Countix-AV. 
